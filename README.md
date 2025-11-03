@@ -41,3 +41,20 @@ The solution integrates **Azure OpenAI** and **Azure Speech-to-Text** services t
 ---
 
 ## 📦 Repository Structure
+AI-Powered-Real-Time-Speech-Translation/
+│
+├── README.md
+├── milestone1.md
+├── evaluation.md
+└── src/
+├── speech_to_text.py
+└── requirements.txt
+
+
+---
+
+## 📞 Contact
+**Author:** P. Varunraj  
+**Institution:** V.S.B. Engineering College  
+**Project Duration:** Infosys Internship (8 Weeks)
+
